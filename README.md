@@ -1,221 +1,139 @@
 <div align="center">
 
-# 👋 Hi, I'm Pushpraj Mishra
-
-### Senior .NET Backend Engineer | Microservices | AWS | DevOps
-
-**Building reliable backend systems, scalable APIs, and cloud-ready applications.**
+<img src="profile-banner.png" alt="Pushpraj Mishra — Senior .NET Backend Engineer, Microservices, AWS and DevOps" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ipushprajmishra)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ipushprajmishra@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipushprajmishra)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipushprajmishra)
 
-📍 Mumbai, Maharashtra, India · 💻 6.6+ years of software engineering experience
+**Senior .NET Backend Engineer** · Mumbai, India · **6.6+ years** in software engineering
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a software engineer with **6.6+ years of experience** developing backend applications, APIs, integrations, and data-processing services. My core expertise is in **C#, .NET, ASP.NET Core Web API, SQL, and Entity Framework**, with hands-on experience across microservices, messaging systems, and AWS-based deployments.
+I build backend applications, APIs, integrations, and data-processing services with **C#, .NET, SQL, and Entity Framework**. My experience spans microservices, messaging systems, AWS deployments, and enterprise products in sustainability, social media analytics, and employee services.
 
-I enjoy solving practical engineering problems: improving application performance, building maintainable services, automating manual workflows, and making systems more observable and reliable. I've worked on sustainability and investment-impact platforms, social media analytics products, employee services, and high-volume data ingestion.
+I care about maintainable architecture, dependable services, performance, and observability. I enjoy turning manual workflows into reliable automated systems and solving production problems with measurable impact.
 
-**What I focus on**
-- Designing and developing backend APIs and service-oriented applications.
-- Building maintainable solutions using object-oriented programming and established design patterns.
-- Working with relational databases, data access layers, and database migrations.
-- Integrating messaging and search technologies for distributed workloads.
-- Deploying and operating applications on AWS, with an ongoing focus on cloud architecture and DevOps.
-- Improving reliability through structured logging, testing, debugging, and documentation.
+## Technology Stack
 
-## 🧰 Technology Stack
+<table>
+<tr><td><b>Backend</b></td><td>C# · .NET / .NET Core · ASP.NET Core Web API · MVC · ADO.NET · EF / EF Core · OOP · Clean Architecture</td></tr>
+<tr><td><b>Data</b></td><td>SQL Server · PostgreSQL · Redis · Elasticsearch</td></tr>
+<tr><td><b>Messaging</b></td><td>Apache Kafka · Amazon SQS · SNS · MSMQ</td></tr>
+<tr><td><b>AWS</b></td><td>EC2 · S3 · RDS · VPC · IAM · Lambda · EventBridge · ECR · ECS · EKS · Route 53 · ELB · Auto Scaling · CloudWatch · CloudTrail</td></tr>
+<tr><td><b>DevOps</b></td><td>Docker · Kubernetes · Jenkins · GitHub Actions · Prometheus · Grafana · Linux</td></tr>
+<tr><td><b>Frontend</b></td><td>JavaScript · Angular 16+ · HTML · CSS · Bootstrap · jQuery · Highcharts</td></tr>
+<tr><td><b>Quality & Tools</b></td><td>NUnit · xUnit · Moq · Postman · Serilog · Visual Studio · VS Code · Git · GitLab · Bitbucket · Azure Repos</td></tr>
+</table>
 
-### Backend Development
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-00599C?style=flat-square)
-![Entity Framework](https://img.shields.io/badge/EF%20%2F%20EF%20Core-512BD4?style=flat-square)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-333333?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-2F6F9F?style=flat-square)
+## Impact at a Glance
 
-### Databases, Messaging & Search
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white)
-![MSMQ](https://img.shields.io/badge/MSMQ-555555?style=flat-square)
+<table>
+<tr>
+<td align="center" width="25%"><h2>$120K</h2><sub>Annual operational cost reduction from a data ingestion worker service</sub></td>
+<td align="center" width="25%"><h2>30%</h2><sub>Higher data collection efficiency</sub></td>
+<td align="center" width="25%"><h2>50+</h2><sub>Critical bugs resolved on LocoBuzz Response Dashboard</sub></td>
+<td align="center" width="25%"><h2>240K+</h2><sub>Employees supported by Shared Services Center processes</sub></td>
+</tr>
+</table>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+## Featured Projects
 
-AWS services in my experience include **EC2, S3, RDS, SQS, SNS, VPC, Route 53, Elastic Load Balancing, Auto Scaling, IAM, Lambda, EventBridge, ECR, ECS, EKS, CloudWatch, and CloudTrail**.
+<details open>
+<summary><b>Data Ingestion Worker Service — CI, PA & PS</b> · .NET Worker Service · AWS · Parallel processing</summary>
 
-### Frontend, Testing & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![NUnit](https://img.shields.io/badge/NUnit-25A162?style=flat-square)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
-![Moq](https://img.shields.io/badge/Moq-444444?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Automated a previously manual vendor-data retrieval workflow and ingestion into internal APIs.
+- Used the Factory design pattern and parallel batch processing for high-volume data.
+- Deployed on AWS EC2 and added structured logging with Serilog.
+- **Reported impact:** $120K reduction in annual operational costs.
+</details>
 
-Other tools and platforms: Visual Studio, VS Code, SQL Server Management Studio, GitLab, Bitbucket, Azure Repos, Ocelot, Serilog, Highcharts, and Postman.
+<details>
+<summary><b>Issuer Feedback Management (IFM)</b> · Clean Architecture · EF Core · PostgreSQL</summary>
 
----
+- Built a feedback portal to help issuers resolve data mismatches before rating release.
+- Developed backend APIs and Code-First database migrations using EF Core.
+- Applied the Repository pattern and integrated Serilog for troubleshooting and observability.
+</details>
 
-## 🚀 Selected Projects
+<details>
+<summary><b>Inrate — Inside & Clif</b> · Sustainability · Investment impact</summary>
 
-### 1. Data Ingestion Worker Service — CI, PA & PS
-**Focus:** .NET Worker Service · Parallel processing · Vendor APIs · AWS · Serilog
+- Developed and enhanced modules for Peer Benchmarking, EU Taxonomy, IFM, SFDR, and UNGC.
+- Worked on backend APIs and data access using C#, SQL, ADO.NET, EF, and EF Core.
+</details>
 
-- Automated a previously manual vendor-data retrieval workflow.
-- Built data extraction, processing, and ingestion into internal APIs.
-- Used the Factory design pattern and parallel batch processing to handle high-volume data.
-- Deployed services on AWS EC2 and added structured logging with Serilog.
-- **Reported impact:** Reduced annual operational costs by **$120K**.
+<details>
+<summary><b>Social Media Data Collection</b> · Microservices · Kafka · SQS · S3 · Elasticsearch</summary>
 
-### 2. Issuer Feedback Management (IFM)
-**Focus:** C# · Web API · Clean Architecture · Repository Pattern · EF Core · PostgreSQL · Serilog
+- Built services to collect data from multiple social media platforms.
+- Researched third-party APIs and implemented collection workflows with .NET Core and AWS.
+- **Reported impact:** 30% improvement in data collection efficiency.
+</details>
 
-- Built a feedback portal from scratch to help issuers resolve data mismatches before rating release.
-- Developed backend APIs and database migrations using the EF Core Code-First approach.
-- Applied Clean Architecture and the Repository pattern to structure the application.
-- Integrated structured logging to support troubleshooting and observability.
+<details>
+<summary><b>Shared Services Center — L&T Group</b> · .NET Core Web API · SQL · SharePoint</summary>
 
-### 3. Inrate — Inside & Clif
-**Focus:** Sustainability assessments · Investment impact measurement · C# · Web API · SQL · EF / EF Core
+- Contributed to a portal for payroll, health, and retirement benefits.
+- Worked on revamping services supporting processes for **240,000+ employees**.
+</details>
 
-- Developed and enhanced modules for sustainability assessment and investment-impact measurement.
-- Worked on Peer Benchmarking, EU Taxonomy, IFM, SFDR, and UNGC modules.
-- Contributed to existing application enhancements and new feature delivery.
+<details>
+<summary><b>LocoBuzz Response Dashboard</b> · .NET MVC · C# · SQL · Highcharts</summary>
 
-### 4. Social Media Data Collection
-**Focus:** .NET Core · SQL · MSMQ · Amazon SQS · Kafka · S3 · Elasticsearch
+- Contributed to social media analytics, CRM, trend monitoring, and campaign reporting.
+- **Reported impact:** 15% better system responsiveness, 50+ critical bugs resolved, and 20% lower downtime.
+</details>
 
-- Developed microservices to collect data from multiple social media platforms.
-- Researched social media APIs and implemented data collection applications using .NET Core and AWS.
-- **Reported impact:** Improved data collection efficiency by **30%**.
-
-### 5. Shared Services Center — L&T Group
-**Focus:** .NET Core Web API · ADO.NET · SQL · SharePoint · Azure DevOps
-
-- Contributed to a portal covering payroll, health, and retirement benefits for employees.
-- Worked on revamping the Shared Services Center.
-- **Project scale:** Platform supporting processes for **240,000+ employees**.
-
-### 6. LocoBuzz Response Dashboard
-**Focus:** .NET MVC · C# · ADO.NET · SQL · Highcharts · JavaScript · jQuery · AJAX
-
-- Worked on a social media analytics and engagement platform with CRM capabilities.
-- Helped monitor online trends, user engagement, and marketing campaign effectiveness.
-- **Reported impact:** Improved system responsiveness by **15%**, resolved **50+ critical bugs**, and reduced downtime by **20%**.
-
-### 7. Cx Suite
-**Focus:** .NET Core · Web API · ADO.NET · SQL
+<details>
+<summary><b>Cx Suite</b> · .NET Core · Web API · SQL</summary>
 
 - Developed features for a social media analytics and engagement platform.
-- **Reported impact:** Improved UI speed by **25%**, corrected **30+ bugs**, and contributed to a **15% increase in application stability**.
+- **Reported impact:** 25% faster UI, 30+ bugs corrected, and a reported 15% improvement in application stability.
+</details>
 
-### 8. TATA Neu Command Center & NBA Score Screen
-**Focus:** .NET MVC · C# · SQL · Highcharts · JavaScript · jQuery · AJAX
+<details>
+<summary><b>TATA Neu Command Center & NBA Score Screen</b> · .NET MVC · Highcharts</summary>
 
-- Developed monitoring features and visualizations for command-center screens.
-- **Reported impact:** Improved decision-making efficiency by **20%**, as documented in the resume.
+- Built monitoring features and visualizations for command-center screens.
+- **Reported impact:** 20% improvement in decision-making efficiency.
+</details>
 
-> Project metrics above are taken from my resume and describe reported project outcomes. Some projects were delivered as part of employer teams.
+## Professional Experience
 
----
+| Organization | Period | Focus |
+|---|---|---|
+| **SG Analytics** | Oct 2024 – Present | Sustainability and investment-impact platforms; backend modules and APIs |
+| **LTIMindtree** | Jun 2023 – Oct 2024 | Enterprise applications; .NET Core Web API, SQL, SharePoint, Azure DevOps |
+| **LocoBuzz Solutions** | Sep 2018 – Jul 2020; Aug 2021 – Jun 2023 | Social media analytics, backend APIs, data collection microservices |
 
-## 💼 Professional Experience
+*Career break: July 2020 – August 2021 for competitive examination preparation.*
 
-### SG Analytics
-**October 2024 – Present**
-- Work on sustainability assessment and investment-impact applications.
-- Develop and enhance backend modules and APIs using C# and .NET.
-- Contribute to Peer Benchmarking, EU Taxonomy, IFM, SFDR, and UNGC capabilities.
-- Build backend data workflows and services with a focus on maintainability, reliability, and observability.
+## Recognition
 
-### LTIMindtree
-**June 2023 – October 2024**
-- Contributed to enterprise application development, including the Shared Services Center.
-- Worked with .NET Core Web API, ADO.NET, SQL, SharePoint, and Azure DevOps.
-- Received project and performance recognition, including Problem Solver, Hi-Fi, and Project Rockstar awards.
+- **GEM Award — SG Analytics**, for exceptional performance during the first quarter after joining.
+- **Scrum Rockstar** (twice) and **Acting Scrum Master** (twice) — LocoBuzz.
+- **Problem Solver Badge**, **Hi-Fi Badge**, and **Project Rockstar** — LTIMindtree.
+- Contributed to deployment of LocoBuzz 2.0 web application and services in Reliance Jio infrastructure.
 
-### LocoBuzz Solutions Pvt. Ltd.
-**September 2018 – July 2020; August 2021 – June 2023**
-- Developed and enhanced social media analytics and engagement products.
-- Worked with .NET MVC, .NET Core, C#, ADO.NET, SQL, JavaScript, jQuery, and Highcharts.
-- Contributed to social media data collection microservices and integrations.
-- Helped deploy the LocoBuzz 2.0 web application and services in Reliance Jio infrastructure.
-- Recognized as Scrum Rockstar twice and served as Acting Scrum Master twice.
+## Education
 
-**Career break:** July 2020 – August 2021, for competitive examination preparation.
+- **B.Sc. Information Technology** — V.E.S. College of Arts, Science and Commerce (2015–2018), 78.48%
+- **HSC** — National Sarvodaya Junior College (2013–2015), 72.77%
+- **SSC** — Chembur Karnataka High School (2013), 75.64%
 
----
+## Currently Exploring
 
-## 🏆 Recognition & Achievements
+AWS architecture · Docker and Kubernetes · CI/CD automation · Observability with Prometheus and Grafana · Microservices resilience and production troubleshooting
 
-- **GEM Award — SG Analytics:** Recognized for exceptional performance during the first quarter after joining.
-- **Scrum Rockstar — LocoBuzz:** Awarded twice.
-- **Acting Scrum Master — LocoBuzz:** Served twice.
-- **Problem Solver Badge — LTIMindtree.**
-- **Hi-Fi Badge — LTIMindtree.**
-- **Project Rockstar — LTIMindtree.**
-- Contributed to the successful deployment of LocoBuzz 2.0 web application and services in Reliance Jio infrastructure.
-
----
-
-## 🎓 Education
-
-**B.Sc. Information Technology** — V.E.S. College of Arts, Science and Commerce  
-2015–2018 · 78.48%
-
-**Higher Secondary Certificate (HSC)** — National Sarvodaya Junior College  
-2013–2015 · 72.77%
-
-**Secondary School Certificate (SSC)** — Chembur Karnataka High School  
-2013 · 75.64%
-
----
-
-## 📌 What I'm Learning & Exploring
-
-I continue to deepen my knowledge of cloud architecture and DevOps alongside my backend engineering work, with an emphasis on:
-
-- AWS architecture and cloud-native application design.
-- Docker, Kubernetes, and deployment workflows.
-- CI/CD automation using Jenkins and GitHub Actions.
-- Observability with Prometheus, Grafana, and structured application logs.
-- Microservices design, messaging, resilience, and production troubleshooting.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in backend engineering, .NET, distributed systems, cloud architecture, and DevOps.
+## Connect
 
 - **LinkedIn:** [linkedin.com/in/ipushprajmishra](https://www.linkedin.com/in/ipushprajmishra)
 - **Email:** [ipushprajmishra@gmail.com](mailto:ipushprajmishra@gmail.com)
 - **GitHub:** [github.com/ipushprajmishra](https://github.com/ipushprajmishra)
 
-<div align="center">
-
-*Thanks for visiting my profile.*
-
-</div>
+<div align="center"><sub>Thanks for visiting my profile.</sub></div>
